@@ -1,12 +1,5 @@
 #!/usr/bin/env python3
 """
-02_spatiotemporal_sliding_window.py
-
-Objective:
-Process the HDF5 exhaustive ring-pair database using a vectorized sliding-window 
-algorithm to classify kinetic state predicates (S_towards, S_along, S_away) 
-and evaluate transition probabilities and success rates.
-
 Usage:
 python 02_spatiotemporal_sliding_window.py --h5_path <path> --hb_success <path> --out_dir <path>
 """

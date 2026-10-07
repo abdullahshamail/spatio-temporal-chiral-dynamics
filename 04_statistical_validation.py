@@ -1,11 +1,5 @@
 #!/usr/bin/env python3
 """
-04_statistical_validation.py
-
-Objective:
-Execute robust non-parametric statistical tests (Mann-Whitney U and Chi-Square) 
-to validate micro-mechanical variances and spatial ring preferences.
-
 Usage:
 python 04_statistical_validation.py --hb_csv <path> --h5_path <path>
 """

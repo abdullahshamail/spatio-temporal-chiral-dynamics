@@ -1,11 +1,5 @@
 #!/usr/bin/env python3
 """
-03_hb_lifetime_kinetics.py
-
-Objective:
-Calculate continuous hydrogen bond chain lifetimes (L) from raw instance data 
-using a permissible state gap tolerance (tau_1 = 5 frames) to evaluate bond persistence.
-
 Usage:
 python 03_hb_lifetime_kinetics.py --hb_csv <path> --out_dir <path>
 """

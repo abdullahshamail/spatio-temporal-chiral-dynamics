@@ -1,11 +1,5 @@
 #!/usr/bin/env python3
 """
-05_micromechanics_visualization.py
-
-Objective:
-Generate OOM-proof, publication-ready chronological stacked time-series figures 
-contrasting SFL's Deep Nesting against RFL's Steric Strain.
-
 Usage:
 python 05_micromechanics_visualization.py --h5_path <path> --hb_csv <path> --out_dir <path>
 """

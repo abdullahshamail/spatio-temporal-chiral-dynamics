@@ -1,11 +1,5 @@
 #!/usr/bin/env python3
 """
-01_trajectory_extraction.py
-
-Objective:
-Parse MD trajectories to extract spatio-temporal matrices (d_ring-ring, theta, d_sep) 
-for both primary and sister rings in a single, highly optimized O(N) pass.
-
 Usage:
 python 01_trajectory_extraction.py --prmtop <path> --dcd <paths> --ring_ids <path> ...
 """
